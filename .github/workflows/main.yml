@@ -34,6 +34,7 @@ jobs:
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
+          npm install vuepress-plugin-blog2@^2.0.0-beta.189
           pnpm cpx "docs/31reading/**" docs/.vuepress/public/reading
           pnpm run docs:build
           > docs/.vuepress/dist/.nojekyll
