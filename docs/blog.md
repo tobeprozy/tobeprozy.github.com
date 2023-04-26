@@ -3,12 +3,14 @@
 home: true
 layout: BlogHome
 icon: home
-title: 互联网小白
-#heroImage: /logo.svg
-heroText: 互联网小白
-tagline: 盛年不重来，一日难再晨
+title: 工科小白
+#heroImage: /logo.svgjian
+heroText: 工科小白
+tagline: 知往者不可谏，知来者犹可追
 bgImage: https://tc.seoipo.com/home-bg-1.jpg
 heroFullScreen: false
+
+
 #projects:
 #  - icon: project
 #    name: 项目名称

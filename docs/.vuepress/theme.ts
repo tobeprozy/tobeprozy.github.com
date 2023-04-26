@@ -5,15 +5,15 @@ import sidebar from "./sidebar";
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: "https://newzone.top",
+  hostname: "tobeprozy.github.io",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "南叔先生",
+    url: "tobeprozy.github.io",
   },
 
   iconAssets: "iconfont",
-  logo: "/logo.svg",
+  logo: "logo.svg",
 
   // 是否全局启用路径导航
   breadcrumb: false,
@@ -31,11 +31,12 @@ export default hopeTheme({
     red: "#f26d6d",
     green: "#3eaf7c",
     orange: "#fb9b5f",
+
   },
   fullscreen: true,
 
   // 默认为 GitHub. 同时也可以是一个完整的 URL
-  repo: "rockbenben/LearnData",
+  repo: "tobeprozy/LearnData",
   // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
   repoLabel: "GitHub",
   // 是否在导航栏内显示仓库链接，默认为 `true`
@@ -61,6 +62,7 @@ export default hopeTheme({
 
   // footer: "默认页脚",
   // displayFooter: true,
+  
 
   // 页面布局 Frontmatter 配置：https://theme-hope.vuejs.press/zh/config/frontmatter/layout.html#pageinfo
   pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView"],
@@ -68,22 +70,15 @@ export default hopeTheme({
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
+    name: "南叔先生",
     avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    description: "理想主义，工科世界具有无限可能，探索技术融合，热衷于学习软件、技术和算法，定期分享探索成果",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/rockbenben",
-      Zhihu: "https://www.zhihu.com/people/qingwhat",
-      '少数派': [
-        "https://sspai.com/u/zqj05i4v/posts",
-        path.resolve(__dirname, "icons/sspai.svg"),
-      ],
-      Wechat: "https://tc.seoipo.com/wechat.svg",
-      Email: "mailto:learndata@newzone.top",
-      Discord: "https://discord.gg/PZTQfJ4GjX",
-      RSS: "https://newzone.top/rss.xml",
+      GitHub: "https://github.com/tobeprozy",
+      Zhihu: "https://www.zhihu.com/people/tobeprozy",
+      Email: "mailto:tobeprozy@163.com",
     },
   },
   // 开发模式下是否启动热更新，显示所有更改并重新渲染
@@ -98,7 +93,7 @@ export default hopeTheme({
     // 评论配置（仅做样例，记得更换）
     comment: {
       provider: "Waline",
-      serverURL: "https://waline.newzone.top",
+      serverURL: "https://waline-tobe-ldkifatw2-tobeprozy.vercel.app/",
       reaction: [
         "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
         "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",
@@ -119,12 +114,17 @@ export default hopeTheme({
           reaction4: "看不懂",
           // Waline 等级标签
           admin: "盛年不重来，一日难再晨",
-          level0: "锻体",
-          level1: "炼气",
-          level2: "筑基",
-          level3: "金丹",
-          level4: "元婴",
-          level5: "化神",
+          level0: "斗者",
+          level1: "斗师",
+          level2: "斗灵",
+          level3: "斗王",
+          level4: "斗皇",
+          level5: "斗宗",
+          level6: "斗尊",
+          level7: "斗圣",
+          level8: "斗帝",
+          level9: "斗神",
+          
         },
       },
 
@@ -140,7 +140,7 @@ export default hopeTheme({
 
     // 组件库
     components: {
-      components: ["Badge", "BiliBili", "VideoPlayer", "YouTube"],
+      components: ["Badge", "BiliBili", "VideoPlayer", "YouTube",],
     },
 
     // 禁用不需要的配置

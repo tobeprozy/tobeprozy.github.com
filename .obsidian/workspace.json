@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "19d8f6ea56742666",
+    "type": "split",
+    "children": [
+      {
+        "id": "697a9daeb5ccea71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d59cd689ac6dcc10",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/photo/Pandas_Cheat_Sheet_for_Data_Science_in_Python.png"
+              }
+            }
+          },
+          {
+            "id": "10a1b21da536d6bd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/photo/Matplotlib_Cheat_Sheet_Plotting_in_Python.png"
+              }
+            }
+          },
+          {
+            "id": "a3ebb3471929cd19",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/12C_plus_plus/photo/21.png"
+              }
+            }
+          },
+          {
+            "id": "fb2477b74af94a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/18Data_Structure/数据结构编程练习/leetcode算法学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebf89164d2a9a9a3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "011dace73eb815ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5d6b549ac5200e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e2da54b0fd7c42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9326b809b98a0f27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb24a126fdf24623",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5
+  },
+  "right": {
+    "id": "6e40ca238d8cebd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab6df3d1960220b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2422db6f9f049ffb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "94cf3cee60f95752",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62e477d306b0fcdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "043694097ccf3780",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ebf89164d2a9a9a3",
+  "lastOpenFiles": [
+    "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/4.png",
+    "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/3.png",
+    "docs/18Data_Structure/数据结构编程练习/leetcode算法学习.md",
+    "docs/18Data_Structure/数据结构编程练习/photo/8.png",
+    "docs/12C_plus_plus/Cplus函数/STL Containers.md",
+    "docs/12C_plus_plus/Cplus函数/photo/21.png",
+    "docs/12C_plus_plus/Cplus函数/STL Iterators.md",
+    "docs/12C_plus_plus/Cplus函数/STL Algorithms.md",
+    "docs/12C_plus_plus/Cplus函数/photo/10.png",
+    "docs/12C_plus_plus/Cplus函数/photo/20.png",
+    "docs/12C_plus_plus/Cplus函数/photo/11.png",
+    "docs/12C_plus_plus/photo/13.png",
+    "docs/12C_plus_plus/Cplus函数/STL Containers copy.md",
+    "docs/12C_plus_plus/Cplus函数/STL Containers",
+    "docs/12C_plus_plus/Cplus函数/photo/9.png",
+    "docs/12C_plus_plus/photo/11.png",
+    "docs/12C_plus_plus/photo/8.png",
+    "docs/12C_plus_plus/容器应用知识.md",
+    "docs/12C_plus_plus/查找算法.md",
+    "docs/12C_plus_plus/计算机基础知识.md",
+    "docs/12C_plus_plus/C++面试常见问题.md",
+    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/Data_Visualization_Cheat_Sheet.md",
+    "docs/12C_plus_plus/算法学习/手动构建二叉树.md",
+    "docs/12C_plus_plus/算法学习/vs使用leetcode.md",
+    "docs/12C_plus_plus/Cplus函数/string相关函数.md",
+    "docs/12C_plus_plus/Cplus函数/STL Iterators",
+    "docs/12C_plus_plus/Cplus函数/photo",
+    "docs/12C_plus_plus/进制转换、字符串操、大数运算.md",
+    "docs/12C_plus_plus/计算机技巧",
+    "docs/12C_plus_plus/算法学习",
+    "docs/12C_plus_plus/容器应用知识 .md",
+    "docs/12C_plus_plus/容器应用知识",
+    "docs/12C_plus_plus/photo",
+    "docs/12C_plus_plus/Cplus函数",
+    "docs/12C_plus_plus/C++个人经验.md",
+    "docs/12C_plus_plus",
+    "docs/08AI_Machine_Learning_Deep_Learning/Machine_Learning/Machine_Vision/READEME.md",
+    "docs/08AI_Machine_Learning_Deep_Learning/Machine_Learning/Machine_Vision/photo",
+    "docs/08AI_Machine_Learning_Deep_Learning/Machine_Learning/Machine Vision/READEME.md",
+    "docs/08AI_Machine_Learning_Deep_Learning/Machine_Learning/学习资源.md",
+    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/Jupyter_Notebook_Cheat_Sheet.md",
+    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/Importing_Datain_Python_Cheat_Sheet.md",
+    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/Data_Science_Cheat_Sheet_for_BusinessLeaders.md",
+    "docs/08AI_Machine_Learning_Deep_Learning/人工智能知识图谱/神经网络.md",
+    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/SciPy_Cheat_Sheet_Linear_Algebra_in_Python.md",
+    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/Tidyverse_Cheat_Sheet_For_Beginners.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "docs/22Signal Processing/Untitled/Untitled.canvas"
+  ]
+}
