@@ -7,6 +7,7 @@ import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 import { path } from "@vuepress/utils";
 import theme from "./theme";
 
+
 export default defineUserConfig({
   // 网站语言，默认为中文
  // 网站语言，默认为中文
@@ -54,5 +55,6 @@ export default defineUserConfig({
     googleAnalyticsPlugin({
       id: "G-RWKZTY2P9R",
     }),
+
   ],
 });

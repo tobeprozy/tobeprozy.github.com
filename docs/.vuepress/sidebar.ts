@@ -2,15 +2,27 @@ import { sidebar } from "vuepress-theme-hope";
 
 // 精选图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
 export default sidebar([
+
   // 指定显示页面
+  {  
+    text: "📅工作笔记",
+    icon: "daily",
+    prefix: "/soph开发/",
+    link: "",
+    collapsible: true,
+    children:  [
+      "详情目录.md",
+    ],
+  },
   {  
     text: "📅每日一问",
     icon: "daily",
-    prefix: "/00Daily Question/",
+    prefix: "/00Daily_Question/",
     link: "",
     collapsible: true,
     children:  [
       "每日一问.md",
+      "详情目录.md",
     ],
   },
   {
