@@ -19,6 +19,7 @@
     "vue": "^3.2.47",
     "vuepress-plugin-auto-catalog": "^2.0.0-beta.206",
     "vuepress-plugin-comment2": "2.0.0-beta.206",
+    "vuepress-plugin-copy-code2": "2.0.0-beta.206",
     "vuepress-plugin-sass-palette": "^2.0.0-beta.206",
     "vuepress-plugin-search-pro": "2.0.0-beta.189",
     "vuepress-theme-hope": "2.0.0-beta.189"

@@ -31,6 +31,9 @@ dependencies:
   vuepress-plugin-comment2:
     specifier: 2.0.0-beta.206
     version: registry.npmmirror.com/vuepress-plugin-comment2@2.0.0-beta.206(vuepress@2.0.0-beta.61)
+  vuepress-plugin-copy-code2:
+    specifier: 2.0.0-beta.206
+    version: registry.npmmirror.com/vuepress-plugin-copy-code2@2.0.0-beta.206(vuepress@2.0.0-beta.61)
   vuepress-plugin-sass-palette:
     specifier: ^2.0.0-beta.206
     version: registry.npmmirror.com/vuepress-plugin-sass-palette@2.0.0-beta.206(vuepress@2.0.0-beta.61)
@@ -39,7 +42,7 @@ dependencies:
     version: 2.0.0-beta.189(@vuepress/client@2.0.0-beta.61)(vuepress-plugin-sass-palette@2.0.0-beta.206)(vuepress@2.0.0-beta.61)
   vuepress-theme-hope:
     specifier: 2.0.0-beta.189
-    version: 2.0.0-beta.189(@vuepress/client@2.0.0-beta.61)(vuepress-plugin-auto-catalog@2.0.0-beta.206)(vuepress-plugin-comment2@2.0.0-beta.206)(vuepress-plugin-sass-palette@2.0.0-beta.206)(vuepress@2.0.0-beta.61)
+    version: 2.0.0-beta.189(@vuepress/client@2.0.0-beta.61)(vuepress-plugin-auto-catalog@2.0.0-beta.206)(vuepress-plugin-comment2@2.0.0-beta.206)(vuepress-plugin-copy-code2@2.0.0-beta.206)(vuepress-plugin-sass-palette@2.0.0-beta.206)(vuepress@2.0.0-beta.61)
 
 devDependencies:
   vuepress:
@@ -230,7 +233,7 @@ packages:
   /@mdit-vue/plugin-frontmatter@0.12.0:
     resolution: {integrity: sha512-26Y3JktjGgNoCVH7NLqi5RcdAauAqxepTt2qXueRcRHtGpiRQV2/M1FveIhCOTCtHSuG5bBOHUxGaV6vRK3Vbw==}
     dependencies:
-      '@mdit-vue/types': 0.12.0
+      '@mdit-vue/types': registry.npmmirror.com/@mdit-vue/types@0.12.0
       '@types/markdown-it': 12.2.3
       gray-matter: registry.npmmirror.com/gray-matter@4.0.3
       markdown-it: 13.0.1
@@ -240,7 +243,7 @@ packages:
     resolution: {integrity: sha512-7qR63J2uc/rXbjHT77WoYBm9imwzx1tVESmRK+Uth6kqFvSWAXAFPcm4PBatGEE8TgzhklPs5BTcQtQhmmsyaw==}
     dependencies:
       '@mdit-vue/shared': 0.12.0
-      '@mdit-vue/types': 0.12.0
+      '@mdit-vue/types': registry.npmmirror.com/@mdit-vue/types@0.12.0
       '@types/markdown-it': 12.2.3
       markdown-it: 13.0.1
     dev: false
@@ -248,7 +251,7 @@ packages:
   /@mdit-vue/plugin-sfc@0.12.0:
     resolution: {integrity: sha512-mH+rHsERzDxGucAQJILspRiD723AIWMmtMhp7lDKdkCIbIhYfupFv/CkSeX+LAx5UY5greWvUTPGYVKn4gw/5Q==}
     dependencies:
-      '@mdit-vue/types': 0.12.0
+      '@mdit-vue/types': registry.npmmirror.com/@mdit-vue/types@0.12.0
       '@types/markdown-it': 12.2.3
       markdown-it: 13.0.1
     dev: false
@@ -257,7 +260,7 @@ packages:
     resolution: {integrity: sha512-XrQcior1EmPgsDG88KsoF4LUSQw/RS1Nyfn5xNWGiurO70a2hml4kCe0XzT4sLKUAPG0HNbIY6b92ezNezqWTg==}
     dependencies:
       '@mdit-vue/shared': 0.12.0
-      '@mdit-vue/types': 0.12.0
+      '@mdit-vue/types': registry.npmmirror.com/@mdit-vue/types@0.12.0
       '@types/markdown-it': 12.2.3
       markdown-it: 13.0.1
     dev: false
@@ -266,7 +269,7 @@ packages:
     resolution: {integrity: sha512-tT985CqvLp17DFWHrSvmmJbh7qcy0Rl0dBbYN//Fn952a04dbr1mb2LqW0B1oStSAQj2q24HpK4ZPgYOt7Z1Jg==}
     dependencies:
       '@mdit-vue/shared': 0.12.0
-      '@mdit-vue/types': 0.12.0
+      '@mdit-vue/types': registry.npmmirror.com/@mdit-vue/types@0.12.0
       '@types/markdown-it': 12.2.3
       markdown-it: 13.0.1
     dev: false
@@ -274,7 +277,7 @@ packages:
   /@mdit-vue/shared@0.12.0:
     resolution: {integrity: sha512-E+sGSubhvnp+Gmb2hJXFDxdLwwQD1H52EVbA4yrxxI5q/cwtnPIN2eJU3zlZB9KcvzXYDFFwt/x2mfhK8RZKBg==}
     dependencies:
-      '@mdit-vue/types': 0.12.0
+      '@mdit-vue/types': registry.npmmirror.com/@mdit-vue/types@0.12.0
       '@types/markdown-it': 12.2.3
       markdown-it: 13.0.1
     dev: false
@@ -286,8 +289,8 @@ packages:
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==}
     engines: {node: '>= 8'}
     dependencies:
-      '@nodelib/fs.stat': 2.0.5
-      run-parallel: 1.2.0
+      '@nodelib/fs.stat': registry.npmmirror.com/@nodelib/fs.stat@2.0.5
+      run-parallel: registry.npmmirror.com/run-parallel@1.2.0
     dev: false
 
   /@nodelib/fs.stat@2.0.5:
@@ -408,7 +411,7 @@ packages:
   /@vue/reactivity@3.2.47:
     resolution: {integrity: sha512-7khqQ/75oyyg+N/e+iwV6lpy1f5wq759NdlS1fpAhFXa8VeAIKGgk2E/C4VF59lx5b+Ezs5fpp/5WsRYXQiKxQ==}
     dependencies:
-      '@vue/shared': 3.2.47
+      '@vue/shared': registry.npmmirror.com/@vue/shared@3.2.47
 
   /@vue/runtime-core@3.2.47:
     resolution: {integrity: sha512-RZxbLQIRB/K0ev0K9FXhNbBzT32H9iRtYbaXb0ZIz2usLms/D55dJR2t6cIEUn6vyhS3ALNvNthI+Q95C+NOpA==}
@@ -911,7 +914,7 @@ packages:
   /fastq@1.15.0:
     resolution: {integrity: sha512-wBrocU2LCXXa+lWBt8RoIRD89Fi8OdABODa/kEnyeyjS5aZO5/GNvI5sEINADqP/h8M29UHTHUb53sUu5Ihqdw==}
     dependencies:
-      reusify: 1.0.4
+      reusify: registry.npmmirror.com/reusify@1.0.4
     dev: false
 
   /fill-range@7.0.1:
@@ -1170,11 +1173,6 @@ packages:
       picomatch: 2.3.1
     dev: false
 
-  /mimic-fn@2.1.0:
-    resolution: {integrity: sha512-OqbOk5oEQeAZ8WXWydlu9HJjz9WVdEIvamMCcXmuqUYjTknH/sqsWvhQ3vgwKFRR1HpjvNBKQ37nbJgYzGqGcg==}
-    engines: {node: '>=6'}
-    dev: false
-
   /minimatch@3.1.2:
     resolution: {integrity: sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==}
     dependencies:
@@ -1215,7 +1213,7 @@ packages:
     resolution: {integrity: sha512-kbpaSSGJTWdAY5KPVeMOKXSrPtr8C8C7wodJbcsd51jRnmD+GZu8Y0VoU6Dm5Z4vWr0Ig/1NKuWRKf7j5aaYSg==}
     engines: {node: '>=6'}
     dependencies:
-      mimic-fn: 2.1.0
+      mimic-fn: registry.npmmirror.com/mimic-fn@2.1.0
     dev: false
 
   /ora@6.1.2:
@@ -1293,10 +1291,6 @@ packages:
     resolution: {integrity: sha512-ERdIdUpR6doqdaSIh80hvzebHB7O6JxycOhyzAeLEchqOq/4yueslQbfnPwXaNhAYacFTyCclhwkEbOumT0tHw==}
     dev: false
 
-  /queue-microtask@1.2.3:
-    resolution: {integrity: sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==}
-    dev: false
-
   /readable-stream@3.6.1:
     resolution: {integrity: sha512-+rQmrWMYGA90yenhTYsLWAsLsqVC8osOw6PKE1HDYiO0gdPeKe/xDHNzIAIn4C91YQ6oenEhfYqqc1883qHbjQ==}
     engines: {node: '>= 6'}
@@ -1328,17 +1322,6 @@ packages:
     dependencies:
       onetime: 5.1.2
       signal-exit: 3.0.7
-    dev: false
-
-  /reusify@1.0.4:
-    resolution: {integrity: sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==}
-    engines: {iojs: '>=1.0.0', node: '>=0.10.0'}
-    dev: false
-
-  /run-parallel@1.2.0:
-    resolution: {integrity: sha512-5l4VyZR86LZ/lDxZTR6jqL8AFE2S0IFLMP26AbjsLVADxHdhB/c0GUsH+y39UfCi3dzz8OlQuPmnaJOMoDHQBA==}
-    dependencies:
-      queue-microtask: 1.2.3
     dev: false
 
   /safe-buffer@5.2.1:
@@ -1506,7 +1489,7 @@ packages:
       - supports-color
     dev: false
 
-  /vuepress-theme-hope@2.0.0-beta.189(@vuepress/client@2.0.0-beta.61)(vuepress-plugin-auto-catalog@2.0.0-beta.206)(vuepress-plugin-comment2@2.0.0-beta.206)(vuepress-plugin-sass-palette@2.0.0-beta.206)(vuepress@2.0.0-beta.61):
+  /vuepress-theme-hope@2.0.0-beta.189(@vuepress/client@2.0.0-beta.61)(vuepress-plugin-auto-catalog@2.0.0-beta.206)(vuepress-plugin-comment2@2.0.0-beta.206)(vuepress-plugin-copy-code2@2.0.0-beta.206)(vuepress-plugin-sass-palette@2.0.0-beta.206)(vuepress@2.0.0-beta.61):
     resolution: {integrity: sha512-xHYIlmua9jEJ0DUY6Ts9UceC6GixLYuVyX8H3aavJhskRhk50qr95CAPnR81ZgBt92TMb6bSXqPvwoNs48yH7Q==}
     engines: {node: ^14.18.0 || >=16.0.0, npm: '>=8', pnpm: '>=7'}
     peerDependencies:
@@ -1615,6 +1598,7 @@ packages:
       vuepress: registry.npmmirror.com/vuepress@2.0.0-beta.61(@vuepress/client@2.0.0-beta.61)(vue@3.2.47)
       vuepress-plugin-auto-catalog: registry.npmmirror.com/vuepress-plugin-auto-catalog@2.0.0-beta.206(vuepress@2.0.0-beta.61)
       vuepress-plugin-comment2: registry.npmmirror.com/vuepress-plugin-comment2@2.0.0-beta.206(vuepress@2.0.0-beta.61)
+      vuepress-plugin-copy-code2: registry.npmmirror.com/vuepress-plugin-copy-code2@2.0.0-beta.206(vuepress@2.0.0-beta.61)
       vuepress-plugin-sass-palette: registry.npmmirror.com/vuepress-plugin-sass-palette@2.0.0-beta.206(vuepress@2.0.0-beta.61)
     transitivePeerDependencies:
       - '@vue/composition-api'
@@ -2565,7 +2549,7 @@ packages:
     name: '@vueuse/shared'
     version: 9.13.0
     dependencies:
-      vue-demi: registry.npmmirror.com/vue-demi@0.13.11(vue@3.2.47)
+      vue-demi: registry.npmmirror.com/vue-demi@0.14.0(vue@3.2.47)
     transitivePeerDependencies:
       - '@vue/composition-api'
       - vue
@@ -4354,7 +4338,6 @@ packages:
         optional: true
     dependencies:
       vue: registry.npmmirror.com/vue@3.2.47
-    dev: false
 
   registry.npmmirror.com/vue-router@4.1.6(vue@3.2.47):
     resolution: {integrity: sha512-DYWYwsG6xNPmLq/FmZn8Ip+qrhFEzA14EI12MsMgVxvHFDYvlr4NXpVF5hrRH1wVcDP8fGi5F4rxuJSl8/r+EQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/vue-router/-/vue-router-4.1.6.tgz}
@@ -4489,6 +4472,42 @@ packages:
       vue-router: registry.npmmirror.com/vue-router@4.1.6(vue@3.2.47)
       vuepress: registry.npmmirror.com/vuepress@2.0.0-beta.61(@vuepress/client@2.0.0-beta.61)(vue@3.2.47)
       vuepress-plugin-reading-time2: registry.npmmirror.com/vuepress-plugin-reading-time2@2.0.0-beta.206(vuepress@2.0.0-beta.61)
+      vuepress-plugin-sass-palette: registry.npmmirror.com/vuepress-plugin-sass-palette@2.0.0-beta.206(vuepress@2.0.0-beta.61)
+      vuepress-shared: registry.npmmirror.com/vuepress-shared@2.0.0-beta.206(vuepress@2.0.0-beta.61)
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - supports-color
+    dev: false
+
+  registry.npmmirror.com/vuepress-plugin-copy-code2@2.0.0-beta.206(vuepress@2.0.0-beta.61):
+    resolution: {integrity: sha512-lrx7dJ89m0KSHNlpANcD1/Y9HvQC7J4jCnnxw/lMTtjNq16ZfE8Nf3KGwqhcjgo2fabbcmW8dRmrKHEGLWe7Fw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/vuepress-plugin-copy-code2/-/vuepress-plugin-copy-code2-2.0.0-beta.206.tgz}
+    id: registry.npmmirror.com/vuepress-plugin-copy-code2/2.0.0-beta.206
+    name: vuepress-plugin-copy-code2
+    version: 2.0.0-beta.206
+    engines: {node: ^14.18.0 || >=16.0.0, npm: '>=8', pnpm: '>=7'}
+    peerDependencies:
+      sass-loader: ^13.2.2
+      vuepress: 2.0.0-beta.61
+      vuepress-vite: 2.0.0-beta.61
+      vuepress-webpack: 2.0.0-beta.61
+    peerDependenciesMeta:
+      sass-loader:
+        optional: true
+      vuepress:
+        optional: true
+      vuepress-vite:
+        optional: true
+      vuepress-webpack:
+        optional: true
+    dependencies:
+      '@vuepress/client': registry.npmmirror.com/@vuepress/client@2.0.0-beta.61
+      '@vuepress/shared': registry.npmmirror.com/@vuepress/shared@2.0.0-beta.61
+      '@vuepress/utils': registry.npmmirror.com/@vuepress/utils@2.0.0-beta.61
+      '@vueuse/core': registry.npmmirror.com/@vueuse/core@10.1.0(vue@3.2.47)
+      balloon-css: registry.npmmirror.com/balloon-css@1.2.0
+      vue: registry.npmmirror.com/vue@3.2.47
+      vue-router: registry.npmmirror.com/vue-router@4.1.6(vue@3.2.47)
+      vuepress: registry.npmmirror.com/vuepress@2.0.0-beta.61(@vuepress/client@2.0.0-beta.61)(vue@3.2.47)
       vuepress-plugin-sass-palette: registry.npmmirror.com/vuepress-plugin-sass-palette@2.0.0-beta.206(vuepress@2.0.0-beta.61)
       vuepress-shared: registry.npmmirror.com/vuepress-shared@2.0.0-beta.206(vuepress@2.0.0-beta.61)
     transitivePeerDependencies:
