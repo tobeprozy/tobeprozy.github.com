@@ -34,7 +34,7 @@
     "vuepress-plugin-sitemap2": "^2.0.0-beta.189",
     "vuepress-shared": "^2.0.0-beta.189",
     "vuepress-theme-hope": "2.0.0-beta.189",
-    "vuepress-vite": "^2.0.0-beta.61"
+    "vuepress-vite": "2.0.0-beta.61"
   },
   "devDependencies": {
     "vuepress": "^2.0.0-beta.61"
