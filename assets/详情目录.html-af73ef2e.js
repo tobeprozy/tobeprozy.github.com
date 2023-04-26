@@ -1,0 +1,1 @@
+import{_ as o,Y as t,Z as _,a1 as a,D as n}from"./framework-d651fda7.js";const c={};function r(s,l){const e=n("AutoCatalog");return t(),_("div",null,[a(e)])}const f=o(c,[["render",r],["__file","详情目录.html.vue"]]);export{f as default};
