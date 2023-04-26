@@ -189,6 +189,7 @@
   },
   "active": "ebf89164d2a9a9a3",
   "lastOpenFiles": [
+    "_tmp_20500_e4cf4d219b4a2f9e6b4103c3b8cd618e",
     "node_modules/pnpm/dist/node-gyp-bin/node-gyp.cmd",
     "node_modules/pnpm/dist/node-gyp-bin/node-gyp",
     "node_modules/pnpm/dist/node-gyp-bin",
@@ -199,7 +200,6 @@
     "node_modules/vuepress-plugin-sass-palette/node_modules/@vueuse/core/index.iife.js",
     "node_modules/vuepress-plugin-components/node_modules/vuepress-plugin-sass-palette/styles/default/palette.scss",
     "node_modules/vuepress-plugin-components/node_modules/vuepress-plugin-sass-palette/styles/default/config.scss",
-    "node_modules/vuepress-plugin-components/node_modules/vuepress-plugin-sass-palette/styles/default",
     "node_modules/vuepress-plugin-md-enhance/node_modules/vuepress-plugin-sass-palette/README.md",
     "node_modules/vuepress-plugin-components/node_modules/vuepress-plugin-sass-palette/README.md",
     "node_modules/vuepress-plugin-photo-swipe/node_modules/vuepress-plugin-sass-palette/README.md",
