@@ -6,8 +6,8 @@
     <link>https://tobeprozy.github.io/</link>
     <description>关于我认知里的工科世界：自动驾驶和机器人是工科世界里的百科全书，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 27 Apr 2023 04:34:09 GMT</pubDate>
-    <lastBuildDate>Thu, 27 Apr 2023 04:34:09 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Apr 2023 10:18:44 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Apr 2023 10:18:44 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 南叔先生</copyright>
@@ -16,6 +16,38 @@
       <url>https://tobeprozy.github.io/logo.svg</url>
       <link>https://tobeprozy.github.io/</link>
     </image>
+    <category>GPT</category>
+    <item>
+      <title>AutoGPT部署</title>
+      <link>https://tobeprozy.github.io/blog/AutoGPT%E9%83%A8%E7%BD%B2.html</link>
+      <guid>https://tobeprozy.github.io/blog/AutoGPT%E9%83%A8%E7%BD%B2.html</guid>
+      <source url="https://tobeprozy.github.io/rss.xml">AutoGPT部署</source>
+      <description>使用gitpod进行项目部署 切换分支 更改配置文件，名字改成.env 输入自己的key 运行./run.sh 自动检查服务器中是否确实项目需要的依赖 出现下面的界面，表示成功! 查看一下帮助 下面启动autogpt python -m autogpt 设定角色和目标</description>
+      <category>GPT</category>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>使用gitpod进行项目部署</p>
+<p>
+
+
+切换分支
+</p>
+<p>更改配置文件，名字改成.env
+</p>
+<p>输入自己的key
+
+</p>
+<p>运行./run.sh
+自动检查服务器中是否确实项目需要的依赖
+出现下面的界面，表示成功!
+</p>
+<p>查看一下帮助
+</p>
+<p>下面启动autogpt
+python -m autogpt
+设定角色和目标
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title></title>
       <link>https://tobeprozy.github.io/23SoftWare/VsCode%E8%BD%AF%E4%BB%B6/%E9%85%8D%E7%BD%AEvscode%E4%BB%A3%E7%90%86.html</link>
