@@ -1,3 +1,21 @@
+---
+title: nntc开发
+article: true
+date: 2023-04-27
+category:
+  - 工作笔记
+tag:
+  - nntc
+  - 算能
+order: 
+icon: 🧑
+---
+
+::: tip
+nntc
+:::
+
+
 ## 基本概念
 
 nntc是一个神经网络编译器，可以将神经网络模型转换为特定硬件平台上可执行的代码。
@@ -147,3 +165,4 @@ python3 -m ufw.tools.app --port 8001
 如果最终精度或在业务上验证精度不满足要求，可以考虑增加迭代次数或其他参数。
 
 回到开发环境，Ctrl+C 结束精度显示服务。
+
