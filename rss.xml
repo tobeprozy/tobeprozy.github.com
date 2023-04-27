@@ -6,8 +6,8 @@
     <link>https://tobeprozy.github.io/</link>
     <description>关于我认知里的工科世界：自动驾驶和机器人是工科世界里的百科全书，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 27 Apr 2023 15:35:43 GMT</pubDate>
-    <lastBuildDate>Thu, 27 Apr 2023 15:35:43 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Apr 2023 15:41:38 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Apr 2023 15:41:38 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 南叔先生</copyright>
@@ -142,7 +142,7 @@ python -m autogpt
       <link>https://tobeprozy.github.io/23SoftWare/VsCode%E8%BD%AF%E4%BB%B6/%E9%85%8D%E7%BD%AEvscode%E4%BB%A3%E7%90%86.html</link>
       <guid>https://tobeprozy.github.io/23SoftWare/VsCode%E8%BD%AF%E4%BB%B6/%E9%85%8D%E7%BD%AEvscode%E4%BB%A3%E7%90%86.html</guid>
       <source url="https://tobeprozy.github.io/rss.xml"></source>
-      <description>问题描述 git push 时，连接失败 需求 vscode使用代理，进行push 步骤 requiements: 有clash 有vscode step 打开vscode左下角的小齿轮，找到setting 打开clash的常规界面 把clash 的地址和端口填在上面 完毕！</description>
+      <description>问题描述 git push 时，连接失败 需求 vscode使用代理，进行push 步骤 requiements: 有clash 有vscode step 打开vscode左下角的小齿轮，找到setting 打开clash的常规界面 或者填这个 把clash 的地址和端口填在上面 完毕！</description>
       <pubDate>Thu, 27 Apr 2023 03:33:46 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>问题描述</strong></p>
 <ul>
@@ -174,10 +174,14 @@ vscode使用代理，进行push</p>
 <p><input type="checkbox" class="task-list-item-checkbox" id="task-item-4" disabled="disabled"><label class="task-list-item-label" for="task-item-4"> 打开clash的常规界面</label></p>
 </li>
 <li class="task-list-item">
-<p><input type="checkbox" class="task-list-item-checkbox" id="task-item-5" disabled="disabled"><label class="task-list-item-label" for="task-item-5"> 把clash 的地址和端口填在上面</label></p>
+<p><input type="checkbox" class="task-list-item-checkbox" id="task-item-5" disabled="disabled"><label class="task-list-item-label" for="task-item-5"> </label></p>
+<p>或者填这个</p>
 </li>
 <li class="task-list-item">
-<p><input type="checkbox" class="task-list-item-checkbox" id="task-item-6" disabled="disabled"><label class="task-list-item-label" for="task-item-6"> 完毕！</label></p>
+<p><input type="checkbox" class="task-list-item-checkbox" id="task-item-6" disabled="disabled"><label class="task-list-item-label" for="task-item-6"> 把clash 的地址和端口填在上面</label></p>
+</li>
+<li class="task-list-item">
+<p><input type="checkbox" class="task-list-item-checkbox" id="task-item-7" disabled="disabled"><label class="task-list-item-label" for="task-item-7"> 完毕！</label></p>
 </li>
 </ul>
 ]]></content:encoded>
