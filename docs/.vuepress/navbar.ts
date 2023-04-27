@@ -12,7 +12,7 @@ export default navbar([
 },
   {
     text: "代码",
-    icon: "code",
+    icon: "book",
     prefix: "/",
     children: [
       "26code/Markdown",
