@@ -1,0 +1,1 @@
+import{_ as t,Y as o,Z as c,a1 as n,$ as e,a0 as r,D as s}from"./framework-39b9cf04.js";const _={},d=e("h1",{id:"详情目录",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#详情目录","aria-hidden":"true"},"#"),r(" 详情目录")],-1);function l(i,h){const a=s("AutoCatalog");return o(),c("div",null,[d,n(a)])}const m=t(_,[["render",l],["__file","详情目录.html.vue"]]);export{m as default};
