@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/_blog/AutoGPT部署.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1037831ec583e782",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/_blog/photo/28.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/_blog/AutoGPT部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/_blog/AutoGPT部署.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/README.md"
+                "file": "docs/_blog/AutoGPT部署.md"
               }
             }
           }
@@ -146,16 +157,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "405f83ef21f3713d",
+  "active": "e6e2da54b0fd7c42",
   "lastOpenFiles": [
+    "docs/_blog/photo/image-20230427152047996.png",
+    "docs/_blog/assets/image-20230427151637050.png",
+    "docs/_blog/assets",
+    "docs/_blog/photo/assets/image-20230427151637050.png",
+    "docs/_blog/photo/assets",
+    "docs/_blog/assets/5ebc3fe071f74eec9e68a8cb4516b154.png",
+    "docs/_blog/assets/5ebc3fe071f74eec9e68a8cb4516b154-1682579881613-1.png",
+    "docs/_blog/AutoGPT部署.md",
+    "docs/_blog/photo/28.png",
+    "docs/_blog/photo/34.png",
+    "docs/_blog/photo/33.png",
+    "docs/_blog/photo/32.png",
+    "docs/_blog/photo/31.png",
+    "docs/_blog/photo/30.png",
+    "docs/README.md",
+    "docs/_blog/docker使用 copy.md",
     "docs/23SoftWare/VsCode软件/配置vscode代理.md",
-    "docs/23SoftWare/VsCode软件/photo/8.png",
-    "docs/23SoftWare/VsCode软件/photo/7.png",
-    "docs/23SoftWare/VsCode软件/photo/6.png",
-    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/photo/Pandas_Cheat_Sheet_for_Data_Science_in_Python.png",
-    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/photo/Matplotlib_Cheat_Sheet_Plotting_in_Python.png",
-    "docs/12C_plus_plus/photo/21.png",
-    "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png",
     "_tmp_22676_39a1647b0201d15211cc2e45048e69ba",
     "_tmp_13360_22f1febf4876cb5f14092a1c056859f1",
     "pnpm-lock.yaml.2848266660",
@@ -164,11 +184,8 @@
     "node_modules/cpx2/LICENSE",
     "node_modules/gray-matter/lib/utils.js",
     "node_modules/gray-matter/lib/to-file.js",
-    "node_modules/gray-matter/lib/stringify.js",
-    "node_modules/gray-matter/lib/parse.js",
     "node_modules/gray-matter/README.md",
     "node_modules/gray-matter/CHANGELOG.md",
-    "node_modules/pnpm/dist/node_modules/retry/equation.gif",
     "node_modules/pnpm/README.md",
     "node_modules/vuepress-plugin-auto-catalog/node_modules/vuepress-plugin-components/README.md",
     "node_modules/vuepress-plugin-auto-catalog/node_modules/vuepress-shared/README.md",
@@ -180,8 +197,6 @@
     "node_modules/vuepress-plugin-pwa2/node_modules/vuepress-plugin-sass-palette/README.md",
     "node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-sass-palette/README.md",
     "node_modules/vuepress-plugin-search-pro/node_modules/vuepress-plugin-sass-palette/README.md",
-    "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/4.png",
-    "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/3.png",
     "docs/18Data_Structure/数据结构编程练习/leetcode算法学习.md",
     "docs/12C_plus_plus/Cplus函数/STL Containers.md",
     "docs/12C_plus_plus/Cplus函数/STL Iterators.md",
@@ -190,10 +205,6 @@
     "docs/12C_plus_plus/容器应用知识.md",
     "docs/12C_plus_plus/查找算法.md",
     "docs/12C_plus_plus/计算机基础知识.md",
-    "docs/12C_plus_plus/C++面试常见问题.md",
-    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/Data_Visualization_Cheat_Sheet.md",
-    "docs/12C_plus_plus/算法学习/手动构建二叉树.md",
-    "docs/12C_plus_plus/算法学习/vs使用leetcode.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "docs/22Signal Processing/Untitled/Untitled.canvas"
