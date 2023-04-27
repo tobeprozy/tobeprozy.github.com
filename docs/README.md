@@ -1,3 +1,4 @@
+# 👋 你好，我是 [南叔先生](https://github.com/tobeprozy)! 🚀
 > 开源工具、技术融合自我提升笔记
 
 <!-- TABLE OF CONTENTS 有序为<ol>，无序为<ul> -->
@@ -24,9 +25,9 @@
 
 曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。
 
-更重要的是，**笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的
+更重要的是，笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的。
 
-因此，我基于 VuePress 和 vuepress-theme-hope 建立了 LearnData，将所有笔记与文章重新整合，聚合到同一页面形成知识库，方便自己使用和分享。
+因此，在开源代码的基础上，利用 VuePress 和 vuepress-theme-hope 建立了知识系统，将所有笔记与文章重新整合，聚合到同一页面形成知识库，方便自己使用和分享。
 
 ![框架](./photo/1.png)
 
@@ -113,13 +114,13 @@ LearnData
 ```
 git add -A
 git commit -m "update"
-git push
+git push 
 ```
 
 <AutoCatalog />
 
 
-# 👋 你好，我是 [Your_Name](https://your-personal-link.com)! 🚀
+
 
 ![Profile views](https://gpvc.arturio.dev/Your_GitHub_Username)
 

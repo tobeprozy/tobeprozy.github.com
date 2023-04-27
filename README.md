@@ -1,3 +1,4 @@
+# 👋 你好，我是 [南叔先生](https://github.com/tobeprozy)! 🚀
 > 开源工具、技术融合自我提升笔记
 
 <!-- TABLE OF CONTENTS 有序为<ol>，无序为<ul> -->
@@ -24,9 +25,9 @@
 
 曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。
 
-更重要的是，**笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的
+更重要的是，笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的。
 
-因此，我基于 VuePress 和 vuepress-theme-hope 建立了 LearnData，将所有笔记与文章重新整合，聚合到同一页面形成知识库，方便自己使用和分享。
+因此，在开源代码的基础上，利用 VuePress 和 vuepress-theme-hope 建立了知识系统，将所有笔记与文章重新整合，聚合到同一页面形成知识库，方便自己使用和分享。
 
 ![框架](./photo/1.png)
 
@@ -113,7 +114,48 @@ LearnData
 ```
 git add -A
 git commit -m "update"
-git push
+git push 
 ```
 
 <AutoCatalog />
+
+
+
+
+![Profile views](https://gpvc.arturio.dev/Your_GitHub_Username)
+
+## 🌍 关于我
+
+- 🎓 我是在 **[Your_University](https://university-link.com)** 学习 **计算机科学** 的学生。
+- 🔭 我目前正在从事 **机器人** 和 **自动驾驶** 项目。
+- 🌱 我正在学习 **深度学习**、**Web 开发** 和 **优化算法**。
+- 💬 欢迎与我讨论 **信号处理**、**感知**、**嵌入式开发** 和 **控制**。
+- 📫 如何联系我：**[Your_Email](mailto:your-email@example.com)**。
+- 😄 爱好：**摄影**、**音乐**、**阅读** 和 **旅行**。
+
+## 🛠 技能
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Solidworks](https://img.shields.io/badge/-Solidworks-0077C9?style=flat&logo=solidworks&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/-Altium_Designer-0079C1?style=flat&logo=altium-designer&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 🚘 自动驾驶技能
+
+- 📷 传感器：**相机**、**FMCW 毫米波雷达**、**激光雷达**、**IMU** 和 **里程计**。
+- 🛣️ 定位和建图：**SLAM（Cartographer、ORB-SLAM、VINS-Mono）**、**姿态估计** 和 **传感器融合**。
+- 🗺️ 路径规划：**A\*、PRM、RRT** 和 **采样算法**。
+- 🚗 控制：**运动学**、**动力学** 和 **模型预测控制（MPC）**。
+
+## 🤖 机器人技能
+
+- 🔧 机器人系统：**机器人建模和仿真**、**机器人运动学和动力学** 和 **机器人控制**。
+- 👀 感知：**图像处理**、**计算机视觉** 和 **点云处理**。
+- 🌐 导航：**路径规划**、**定位** 和 **映射**。
+- 🏭 应用：**工业自动化**、**服务机器人** 和 **医疗机器人**。
