@@ -119,9 +119,6 @@ git push
 
 <AutoCatalog />
 
-
-
-
 ![Profile views](https://gpvc.arturio.dev/Your_GitHub_Username)
 
 ## 🌍 关于我
