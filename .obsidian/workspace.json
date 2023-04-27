@@ -4,63 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "697a9daeb5ccea71",
+        "id": "c7c99f39a1a550c3",
         "type": "tabs",
         "children": [
           {
-            "id": "d59cd689ac6dcc10",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/photo/Pandas_Cheat_Sheet_for_Data_Science_in_Python.png"
-              }
-            }
-          },
-          {
-            "id": "10a1b21da536d6bd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/photo/Matplotlib_Cheat_Sheet_Plotting_in_Python.png"
-              }
-            }
-          },
-          {
-            "id": "a3ebb3471929cd19",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/12C_plus_plus/photo/21.png"
-              }
-            }
-          },
-          {
-            "id": "fb2477b74af94a1b",
+            "id": "405f83ef21f3713d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/18Data_Structure/数据结构编程练习/leetcode算法学习.md",
+                "file": "docs/23SoftWare/VsCode软件/配置vscode代理.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ebf89164d2a9a9a3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png"
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png",
+                "file": "docs/23SoftWare/VsCode软件/配置vscode代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png",
+                "file": "docs/23SoftWare/VsCode软件/配置vscode代理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png"
+                "file": "docs/23SoftWare/VsCode软件/配置vscode代理.md"
               }
             }
           }
@@ -187,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebf89164d2a9a9a3",
+  "active": "405f83ef21f3713d",
   "lastOpenFiles": [
+    "docs/23SoftWare/VsCode软件/photo/8.png",
+    "docs/23SoftWare/VsCode软件/photo/7.png",
+    "docs/23SoftWare/VsCode软件/photo/6.png",
+    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/photo/Pandas_Cheat_Sheet_for_Data_Science_in_Python.png",
+    "docs/08AI_Machine_Learning_Deep_Learning/机器学习知识图谱/photo/Matplotlib_Cheat_Sheet_Plotting_in_Python.png",
+    "docs/12C_plus_plus/photo/21.png",
+    "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/31.png",
     "_tmp_22676_39a1647b0201d15211cc2e45048e69ba",
     "_tmp_13360_22f1febf4876cb5f14092a1c056859f1",
     "pnpm-lock.yaml.2848266660",
@@ -199,7 +165,6 @@
     "node_modules/gray-matter/lib/to-file.js",
     "node_modules/gray-matter/lib/stringify.js",
     "node_modules/gray-matter/lib/parse.js",
-    "node_modules/gray-matter/lib/engines.js",
     "node_modules/gray-matter/README.md",
     "node_modules/gray-matter/CHANGELOG.md",
     "node_modules/pnpm/dist/node_modules/retry/equation.gif",
@@ -219,15 +184,9 @@
     "docs/18Data_Structure/数据结构编程练习/leetcode算法学习.md",
     "docs/18Data_Structure/数据结构编程练习/photo/8.png",
     "docs/12C_plus_plus/Cplus函数/STL Containers.md",
-    "docs/12C_plus_plus/Cplus函数/photo/21.png",
     "docs/12C_plus_plus/Cplus函数/STL Iterators.md",
     "docs/12C_plus_plus/Cplus函数/STL Algorithms.md",
-    "docs/12C_plus_plus/Cplus函数/photo/10.png",
-    "docs/12C_plus_plus/Cplus函数/photo/20.png",
-    "docs/12C_plus_plus/Cplus函数/photo/11.png",
-    "docs/12C_plus_plus/photo/13.png",
     "docs/12C_plus_plus/Cplus函数/STL Containers copy.md",
-    "docs/12C_plus_plus/Cplus函数/photo/9.png",
     "docs/12C_plus_plus/容器应用知识.md",
     "docs/12C_plus_plus/查找算法.md",
     "docs/12C_plus_plus/计算机基础知识.md",
