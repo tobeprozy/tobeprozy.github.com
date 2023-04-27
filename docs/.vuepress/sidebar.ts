@@ -32,7 +32,7 @@ export default sidebar([
     link: "",
     collapsible: true,
     children:  [
-      "*.md"
+      "详情目录.md",
     ],
   },
   {
@@ -41,7 +41,9 @@ export default sidebar([
     prefix: "/02Image_Processing/",
     link: "",
     collapsible: true,
-    children:  "structure",
+    children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "👓计算机视觉",
@@ -49,7 +51,9 @@ export default sidebar([
     prefix: "/03Computer_Vision/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "☁️点云处理",
@@ -57,7 +61,9 @@ export default sidebar([
     prefix: "/04Point_Cloud_Processing/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🔍优化算法",
@@ -65,7 +71,9 @@ export default sidebar([
     prefix: "/05Optimization_Algorithm/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🚀SLAM",
@@ -73,7 +81,9 @@ export default sidebar([
     prefix: "/06SLAM/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🚗数学基础",
@@ -81,7 +91,9 @@ export default sidebar([
     prefix: "/07Math_Basic/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🧠AI-机器学习-深度学习",
@@ -89,7 +101,9 @@ export default sidebar([
     prefix: "/08AI_Machine_Learning_Deep_Learning/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "📟嵌入式开发",
@@ -97,7 +111,9 @@ export default sidebar([
     prefix: "/09Embedded_Development/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🤖机器人",
@@ -105,7 +121,9 @@ export default sidebar([
     prefix: "/10Robotics/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🚘自动驾驶篇",
@@ -113,7 +131,9 @@ export default sidebar([
     prefix: "/11Automatic_Driving/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "💻C++",
@@ -121,7 +141,9 @@ export default sidebar([
     prefix: "/12C_plus_plus/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🐍Python",
@@ -129,7 +151,9 @@ export default sidebar([
     prefix: "/13Python/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🐧Matlab",
@@ -137,7 +161,9 @@ export default sidebar([
     prefix: "/14Matlab/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🐋 Linux 服务",
@@ -153,7 +179,9 @@ export default sidebar([
     prefix: "/16ROS/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "💻计算机基础",
@@ -161,7 +189,9 @@ export default sidebar([
     prefix: "/17Computer_Basics/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "📊数据结构",
@@ -169,7 +199,9 @@ export default sidebar([
     prefix: "/18Data_Structure/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🌐网络编程",
@@ -177,7 +209,9 @@ export default sidebar([
     prefix: "/19Network_Programming/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🔧机械工程",
@@ -185,7 +219,9 @@ export default sidebar([
     prefix: "/20Mechanical_Engineering/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "⚡电路电子",
@@ -193,7 +229,9 @@ export default sidebar([
     prefix: "/21Circuit_Electronics/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🔊信号处理",
@@ -201,7 +239,9 @@ export default sidebar([
     prefix: "/22Signal_Processing/",
     link: "",
     collapsible: true,
-    children:  "structure",
+     children:  [
+      "详情目录.md",
+    ],
   },
   {
     text: "🧰 应用手册",
