@@ -1,0 +1,1 @@
+import{_ as e,Y as o,Z as n,$ as t}from"./framework-39b9cf04.js";const _={},s=t("p",null,"工科小白，",-1),c=t("p",null,"探索新工具、新技术，",-1),l=t("p",null,"坚持批评与自我批评，对每一个机遇保持开放的态度，勇于尝试新鲜事物，",-1),r=t("p",null,"热衷于自动驾驶相关的一切技术，定期分享探索成果。",-1),i=[s,c,l,r];function a(d,u){return o(),n("div",null,i)}const p=e(_,[["render",a],["__file","intro.html.vue"]]);export{p as default};

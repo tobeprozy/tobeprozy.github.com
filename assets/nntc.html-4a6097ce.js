@@ -1,0 +1,1 @@
+import{_ as e,Y as t,Z as c,$ as n}from"./framework-39b9cf04.js";const o={},s=n("p",null,"nntc是一个神经网络编译器，可以将神经网络模型转换为特定硬件平台上可执行的代码。",-1),_=n("p",null,"你需要熟悉nntc支持的模型格式（如ONNX、TensorFlow、PyTorch等），以及如何将模型转换为特定硬件的指令集。",-1),l=[s,_];function r(a,d){return t(),c("div",null,l)}const f=e(o,[["render",r],["__file","nntc.html.vue"]]);export{f as default};
