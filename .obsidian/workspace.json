@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/23SoftWare/VsCode软件/配置vscode代理.md",
+                "file": "docs/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/23SoftWare/VsCode软件/配置vscode代理.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/23SoftWare/VsCode软件/配置vscode代理.md",
+                "file": "docs/README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/23SoftWare/VsCode软件/配置vscode代理.md"
+                "file": "docs/README.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "405f83ef21f3713d",
   "lastOpenFiles": [
+    "docs/23SoftWare/VsCode软件/配置vscode代理.md",
     "docs/23SoftWare/VsCode软件/photo/8.png",
     "docs/23SoftWare/VsCode软件/photo/7.png",
     "docs/23SoftWare/VsCode软件/photo/6.png",
@@ -182,7 +183,6 @@
     "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/4.png",
     "docs/18Data_Structure/数据结构编程练习/代码随想录/photo/3.png",
     "docs/18Data_Structure/数据结构编程练习/leetcode算法学习.md",
-    "docs/18Data_Structure/数据结构编程练习/photo/8.png",
     "docs/12C_plus_plus/Cplus函数/STL Containers.md",
     "docs/12C_plus_plus/Cplus函数/STL Iterators.md",
     "docs/12C_plus_plus/Cplus函数/STL Algorithms.md",
