@@ -31,7 +31,9 @@ export default sidebar([
     prefix: "/01Sensor/",
     link: "",
     collapsible: true,
-    children:  "structure",
+    children:  [
+      "*.md"
+    ],
   },
   {
     text: "🌅图像处理",
