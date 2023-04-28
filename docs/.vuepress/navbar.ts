@@ -22,7 +22,7 @@ export default navbar([
         text: "页面开发",
         icon: "vue",
         prefix: "",
-        children: ["20web/VuePress", "20web/docsify", "27deploy/VPS"],
+        children: ["30web/VuePress", "30web/docsify", "27deploy/VPS"],
       },
     ],
   },
