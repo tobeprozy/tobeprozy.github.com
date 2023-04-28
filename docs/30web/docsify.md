@@ -1,5 +1,5 @@
 ---
-article: false
+article: true
 title: docsify
 icon: edit
 order: 2

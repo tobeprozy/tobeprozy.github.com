@@ -1,5 +1,5 @@
 ---
-article: false
+article: true
 title: VuePress
 icon: vue
 order: 1

@@ -314,7 +314,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🛖 生活记录",
+    text: "😊生活记录",
     icon: "",
     prefix: "/28LifeNotes/",
     link: "",

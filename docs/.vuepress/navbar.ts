@@ -11,8 +11,8 @@ export default navbar([
   ],
 },
   {
-    text: "代码",
-    icon: "book",
+    text: "🛰代码",
+    icon: "app",
     prefix: "/",
     children: [
       "26code/Markdown",
@@ -22,7 +22,7 @@ export default navbar([
         text: "页面开发",
         icon: "vue",
         prefix: "",
-        children: ["20web/VuePress.md", "20web/docsify.md", "27deploy/VPS.md"],
+        children: ["20web/VuePress", "20web/docsify", "27deploy/VPS"],
       },
     ],
   },
