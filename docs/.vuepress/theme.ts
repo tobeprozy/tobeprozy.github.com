@@ -77,7 +77,7 @@ export default hopeTheme({
     roundAvatar: true,
     medias: {
       GitHub: "https://github.com/tobeprozy",
-      Zhihu: "https://www.zhihu.com/people/tobeprozy",
+      Zhihu: "https://www.zhihu.com/people/zhang-zhi-yuan-97-99",
       Email: "mailto:tobeprozy@163.com",
     },
   },
